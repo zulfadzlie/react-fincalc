@@ -1,0 +1,10 @@
+.form {
+    width: max-content;
+    padding: 0;
+    margin: 0 auto;
+    margin-top: .25rem;
+}
+
+.label{
+    margin: .25rem 1rem 0 0;
+}
